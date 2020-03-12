@@ -1,6 +1,6 @@
 # 录音组件的代码片段
 特别高兴您愿意抽出时间查看我的简历。由于项目原因暂时无法展示全部的项目代码。
-实现效果可以参见：https://www.bilibili.com/video/av91827455/
+实现效果可以参见：<a target="_blank">https://www.bilibili.com/video/av91827455/</a>
 # 这个组件完成了：
 - 音频的录制
 - 音频的传输
